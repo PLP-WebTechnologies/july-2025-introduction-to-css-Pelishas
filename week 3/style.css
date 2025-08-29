@@ -1,0 +1,37 @@
+
+header {
+    background-color: #21199e;
+    padding: 20px;
+    text-align: center;
+}
+div {
+    border: 2px solid #673b98;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: #e0e0e0;
+}
+
+body {
+    margin: 15px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f5f5f5;
+    color: #b86363;
+}
+
+h1 {
+    color: #673b98;
+    text-align: center;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 10px;   
+    text-align: center;
+    background-color: #83942d;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(110, 99, 99, 0.1);
+    color: white;
+}
